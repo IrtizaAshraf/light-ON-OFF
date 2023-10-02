@@ -22,7 +22,7 @@ item.addEventListener('mouseover', function (event) {
       if (event.target.tagName === 'IMG') {
           // Check if the mouse is over an image inside the '.light' element
           item.innerHTML = `
-          <img src="onn.png" alt="light"><br>
+          <img src="Onn.png" alt="light"><br>
             <h2 style="color:blue;">Light is Onn</h2>
           `;
       } else {
